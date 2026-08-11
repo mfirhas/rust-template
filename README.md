@@ -5,5 +5,5 @@
 [![ci](https://github.com/mfirhas/<PROJECT_NAME>/actions/workflows/ci.yml/badge.svg)](https://github.com/mfirhas/<PROJECT_NAME>/actions/workflows/ci.yml)
 [![docs](https://docs.rs/<PROJECT_NAME>/badge.svg)](https://docs.rs/<PROJECT_NAME>)
 [![codecov](https://codecov.io/gh/mfirhas/<PROJECT_NAME>/branch/master/graph/badge.svg)](https://codecov.io/gh/mfirhas/<PROJECT_NAME>)
-[![license: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mfirhas/<PROJECT_NAME>/blob/master/LICENSE)
+[![license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mfirhas/<PROJECT_NAME>/blob/master/LICENSE)
 
